@@ -1,0 +1,25 @@
+# PyInstaller / Build
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# OS/IDE
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.log
+error.txt
